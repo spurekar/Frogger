@@ -1,0 +1,58 @@
+body {
+    background-image: url("../img/background.png");
+    background-repeat: no-repeat;
+}
+
+img.frog {
+    position: absolute;
+    left: 129px;
+    top: 410px;
+}
+    
+img.faceup {
+    width: 30px;
+    height: 30px;
+    background: url(../img/sprite.png) -9 -362;
+}
+    
+img.facedown {
+    width: 30px;
+    height: 30px;
+    background: url(../img/sprite.png) -76 -362;
+}
+    
+img.faceleft {
+    width: 30px;
+    height: 30px;
+    background: url(../img/sprite.png) -76 -331;
+}
+    
+img.faceright {
+    width: 30px;
+    height: 30px;
+    background: url(../img/sprite.png) -7 -330;
+}
+ 
+img.jumpup {
+    width: 30px;
+    height: 30px;
+    background: url(../img/sprite.png) -42 -364;
+}
+    
+img.jumpdown {
+    width: 30px;
+    height: 30px;
+    background: url(../img/sprite.png) -110 -364;
+}
+    
+img.jumpleft {
+    width: 30px;
+    height: 30px;
+    background: url(../img/sprite.png) -110 -333;
+}
+    
+img.jumpright {
+    width: 30px;
+    height: 30px;
+    background: url(../img/sprite.png) -42 -330;
+}
